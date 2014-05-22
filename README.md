@@ -7,6 +7,7 @@ QT_study_5_QPainterGradient
 
 **画了渐进填充的_椭圆_ 和 渐进填充的直线**    //宽字体  倾斜混输(_椭圆_)
 
+<img heigh="500px" width="500px" src ="http://ww4.sinaimg.cn/bmiddle/6c9594a0jw1egkqlcgb8bj218g18gwsw.jpg">
 ##嵌入列表
 - [ ] 画图
   - [ ] 椭圆
