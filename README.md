@@ -8,6 +8,7 @@ QT_study_5_QPainterGradient
 **画了渐进填充的_椭圆_ 和 渐进填充的直线**
 
 #QPainter
+##painter
 - [ ] 画图
   - [ ] 椭圆
   - [ ] 线条
