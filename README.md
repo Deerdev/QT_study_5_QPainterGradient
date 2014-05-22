@@ -36,6 +36,31 @@ QT_study_5_QPainterGradient
   * [线条](#线条)
   * [渐变](#渐变)
 
+u
+
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+
+
 ##QPainter
 
 ###矩形
