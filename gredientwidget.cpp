@@ -17,7 +17,7 @@ GredientWidget::GredientWidget(QWidget *parent)
  * 也就是终点处设置成黑色。
  * 再创建QBrush时，把这个渐变对象传递进去
  */
-void GredientWidget::paintEvent(QPaintEvent *event)
+void GredientWidget::paintEvent(QPaintEvent *)
 {
     QPainter painter(this);
     painter.setRenderHint(QPainter::Antialiasing,true);

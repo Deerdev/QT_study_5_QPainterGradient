@@ -1,6 +1,12 @@
 QT_study_5_QPainterGradient
 ==============================
 
+#colorwheel是色盘窗口
+#coodinatetranslate是坐标变换 切换 显示
+#eventlabel继承QLabel，追踪显示鼠标的坐标
+#gredientwidget辐射渐变
+#linegredient线性渐变
+
 画线性渐变填充（椭圆，直线）
 
 *主要介绍 如何设置渐进，渐进填充*          

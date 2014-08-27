@@ -8,7 +8,7 @@ linegredient::linegredient(QWidget *parent) :
     setWindowTitle(tr("Paint Gredient"));
 }
 
-void linegredient::paintEvent(QPaintEvent *event)
+void linegredient::paintEvent(QPaintEvent *)
 {
     QPainter painter(this);
     painter.setRenderHint(QPainter::Antialiasing,true);
