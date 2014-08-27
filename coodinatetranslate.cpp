@@ -12,17 +12,13 @@ coodinatetranslate::coodinatetranslate(QWidget *parent) :
     setWindowTitle(tr("Paint Gredient"));
     QLabel *aa = new QLabel(this);
     //aa->setText("test");
-    aa->resize(100,100);
+    aa->resize(400,400);
     //aa->setStyleSheet("border: 1px groove gray; border-radius: 5px; background-color: rgba(255, 193, 245, 0%); ");
 
-    tlabel = new EventLabel(aa);
+    tlabel = new EventLabel(aa);   //EventLabel是继承自QLabel的
     tlabel->QLabel::setStyleSheet("border: 1px groove gray; border-radius: 5px; background-color: rgba(255, 193, 245, 0%); ");
-    tlabel->QLabel::resize(300,300);
+    tlabel->QLabel::resize(400,400);
     tlabel->QLabel::setMouseTracking(true);
-//    QVBoxLayout *bvv = new QVBoxLayout;
-//    bvv->addWidget(tlabel);
-//    setLayout(bvv);
-
 
 }
 
